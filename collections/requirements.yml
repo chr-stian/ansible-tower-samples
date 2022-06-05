@@ -2,4 +2,4 @@
 collections:
   - name: amazon.aws
     version: 1.5.0
-    source: https://10.0.207.200/api/galaxy/content/published/
+    source: https://18.206.126.221/api/galaxy/content/published/
